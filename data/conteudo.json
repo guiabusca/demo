@@ -1,7 +1,80 @@
 {
   "banners": [],
   "novidades": [],
-  "plantoes": [],
+  "plantoes": [
+    {
+      "id": "samu-192",
+      "titulo": "SAMU · Ambulância",
+      "texto": "Urgência médica e atendimento móvel",
+      "numero": "192",
+      "telefone": "192",
+      "icon": "siren",
+      "ativo": true
+    },
+    {
+      "id": "bombeiros-193",
+      "titulo": "Corpo de Bombeiros",
+      "texto": "Incêndio, resgate e salvamento",
+      "numero": "193",
+      "telefone": "193",
+      "icon": "siren",
+      "ativo": true
+    },
+    {
+      "id": "policia-190",
+      "titulo": "Polícia Militar",
+      "texto": "Crime em andamento e risco à segurança",
+      "numero": "190",
+      "telefone": "190",
+      "icon": "siren",
+      "ativo": true
+    },
+    {
+      "id": "defesa-civil-199",
+      "titulo": "Defesa Civil",
+      "texto": "Enchente, deslizamento e áreas de risco",
+      "numero": "199",
+      "telefone": "199",
+      "icon": "siren",
+      "ativo": true
+    },
+    {
+      "id": "pronto-socorro",
+      "titulo": "Pronto Socorro Municipal",
+      "texto": "Atendimento 24h · R. Alcides de Oliveira Frasson, 400",
+      "numero": "(19) 3456-7070",
+      "telefone": "1934567070",
+      "icon": "siren",
+      "ativo": true
+    },
+    {
+      "id": "guarda-municipal",
+      "titulo": "Guarda Municipal",
+      "texto": "Atendimento 24h em Iracemápolis",
+      "numero": "153 · (19) 3456-3965",
+      "telefone": "153",
+      "icon": "siren",
+      "ativo": true
+    },
+    {
+      "id": "policia-rodoviaria",
+      "titulo": "Polícia Rodoviária Federal",
+      "texto": "Emergências em rodovias federais",
+      "numero": "191",
+      "telefone": "191",
+      "icon": "siren",
+      "ativo": true
+    },
+    {
+      "id": "central-mulher-180",
+      "titulo": "Central da Mulher",
+      "texto": "Orientação e atendimento à mulher",
+      "numero": "180",
+      "telefone": "180",
+      "icon": "siren",
+      "ativo": true
+    }
+  ],
   "categorias": [],
   "configuracoes": {
     "cidadeTexto": "Iracemápolis, SP",

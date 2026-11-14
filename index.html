@@ -1387,12 +1387,12 @@ function emergencyPanel() {
   const total = COMPANIES.filter((e) => e.emergency).length;
   const plantoes = (CONTENT.plantoes || []).filter((p) => p.ativo !== false);
   return `<div class="panel emergency">
-    <div class="panel-head"><div><h3>Plantão &amp; emergência</h3><p>Quando não dá para esperar, comece por aqui.</p></div>${icon('siren')}</div>
-    ${plantoes.map((p) => `<button class="plantao-card" data-intent="emergencia">
+    <div class="panel-head"><div><h3>Emergência e serviços públicos</h3><p>Contatos oficiais para atendimento urgente. Toque para ligar.</p></div>${icon('siren')}</div>
+    ${plantoes.map((p) => `<a class="plantao-card" href="tel:${esc(p.telefone || '')}" aria-label="Ligar para ${esc(p.titulo)}">
       <span class="plantao-icon">${icon(p.icon || 'siren')}</span>
-      <span class="txt"><strong>${esc(p.titulo)}</strong><small>${esc(p.texto)}</small></span>
+      <span class="txt"><strong>${esc(p.titulo)}</strong><small>${esc(p.texto)}${p.numero ? ` · <b>${esc(p.numero)}</b>` : ''}</small></span>
       <span class="arrow-link" aria-hidden="true">→</span>
-    </button>`).join('')}
+    </a>`).join('')}
     ${total ? `<div class="emergency-count">${total} ${total === 1 ? 'empresa marcada' : 'empresas marcadas'} para atendimento especial.</div>` : ''}
   </div>`;
 }
