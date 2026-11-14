@@ -1,0 +1,461 @@
+{
+  "negocios": [
+    {
+      "id": "demo-farmacia-vida",
+      "nome": "Farmácia Vida 24h",
+      "categoria": "Saúde",
+      "subcategoria": "Farmácia",
+      "descricao": "Farmácia completa com atendimento 24 horas, entrega rápida e farmacêutica sempre disponível para tirar dúvidas.",
+      "servicos": [
+        "Medicamentos",
+        "Genéricos",
+        "Dermocosméticos",
+        "Aferição de pressão",
+        "Entrega em casa"
+      ],
+      "palavras": [
+        "remedio",
+        "drogaria",
+        "plantao",
+        "urgencia",
+        "madrugada"
+      ],
+      "bairro": "Centro",
+      "endereco": "Rua das Palmeiras, 120",
+      "horarios": "24h",
+      "telefone": "(19) 3456-0101",
+      "whatsapp": "5519999990101",
+      "plano": "premium",
+      "planoAte": "2027-12-31",
+      "nota": {
+        "media": 4.9,
+        "qtd": 214
+      },
+      "entrega": {
+        "tempo": "20–30 min",
+        "frete": 0
+      },
+      "retirada": true,
+      "orcamento": false,
+      "fotos": 10,
+      "ativo": true,
+      "verificado": true,
+      "emergencia": true,
+      "ordem": 1,
+      "site": "www.farmaciavida24h.com.br",
+      "redes": {
+        "instagram": "https://instagram.com/farmaciavida24h",
+        "facebook": "https://facebook.com/farmaciavida24h"
+      },
+      "tipoNegocio": "cnpj",
+      "cidade": "demo",
+      "fonte": "exemplo",
+      "ver": "img2026a"
+    },
+    {
+      "id": "demo-burger-brasa",
+      "nome": "Burger Brasa Grill",
+      "categoria": "Alimentação",
+      "subcategoria": "Hamburgueria",
+      "descricao": "Hambúrgueres artesanais grelhados na brasa, batatas crocantes e milk-shakes. Peça no salão, retire ou receba em casa.",
+      "servicos": [
+        "Hambúrguer artesanal",
+        "Batata rústica",
+        "Milk-shake",
+        "Combos",
+        "Delivery"
+      ],
+      "palavras": [
+        "lanche",
+        "hamburguer",
+        "sanduiche",
+        "janta",
+        "fome"
+      ],
+      "bairro": "Jardim Primavera",
+      "endereco": "Av. Brasil, 845",
+      "horarios": {
+        "seg_sex": [
+          11,
+          23
+        ],
+        "sab": [
+          11,
+          19
+        ],
+        "dom": null
+      },
+      "telefone": "(19) 3456-0102",
+      "whatsapp": "5519999990102",
+      "plano": "premium",
+      "planoAte": "2027-12-31",
+      "nota": {
+        "media": 4.8,
+        "qtd": 167
+      },
+      "entrega": {
+        "tempo": "30–45 min",
+        "frete": 5
+      },
+      "retirada": true,
+      "orcamento": false,
+      "fotos": 10,
+      "ativo": true,
+      "verificado": true,
+      "emergencia": false,
+      "ordem": 2,
+      "site": "www.burgerbrasa.com.br",
+      "redes": {
+        "instagram": "https://instagram.com/burgerbrasagrill",
+        "facebook": "https://facebook.com/burgerbrasagrill"
+      },
+      "tipoNegocio": "cnpj",
+      "cidade": "demo",
+      "fonte": "exemplo",
+      "ver": "img2026a"
+    },
+    {
+      "id": "demo-auto-socorro",
+      "nome": "Auto Socorro Guincho 24h",
+      "categoria": "Serviços",
+      "subcategoria": "Guincho e socorro",
+      "descricao": "Guincho e socorro mecânico 24 horas, todos os dias. Reboque urbano e rodovias, troca de pneu, pane seca e bateria.",
+      "servicos": [
+        "Guincho",
+        "Troca de pneu",
+        "Pane seca",
+        "Bateria",
+        "Socorro mecânico"
+      ],
+      "palavras": [
+        "reboque",
+        "carro quebrou",
+        "pneu furado",
+        "socorro",
+        "plantao",
+        "emergencia"
+      ],
+      "bairro": "Distrito Industrial",
+      "endereco": "Rod. Municipal, km 2",
+      "horarios": "24h",
+      "telefone": "(19) 3456-0103",
+      "whatsapp": "5519999990103",
+      "plano": "destaque",
+      "planoAte": "2027-12-31",
+      "nota": {
+        "media": 4.9,
+        "qtd": 98
+      },
+      "entrega": null,
+      "retirada": false,
+      "orcamento": true,
+      "fotos": 6,
+      "ativo": true,
+      "verificado": true,
+      "emergencia": true,
+      "ordem": 3,
+      "site": "",
+      "redes": {
+        "instagram": "https://instagram.com/autosocorro24h",
+        "facebook": "https://facebook.com/autosocorro24h"
+      },
+      "tipoNegocio": "cnpj",
+      "cidade": "demo",
+      "fonte": "exemplo",
+      "ver": "img2026a"
+    },
+    {
+      "id": "demo-studio-bella-pele",
+      "nome": "Studio Bella Pele",
+      "categoria": "Beleza",
+      "subcategoria": "Salão e estética",
+      "descricao": "Salão completo: cabelo, unhas e estética facial. Ambiente aconchegante e profissionais experientes. Agende seu horário.",
+      "servicos": [
+        "Corte",
+        "Escova",
+        "Coloração",
+        "Manicure e pedicure",
+        "Limpeza de pele"
+      ],
+      "palavras": [
+        "cabelo",
+        "unha",
+        "escova",
+        "barba",
+        "cabeleireira",
+        "estetica"
+      ],
+      "bairro": "Centro",
+      "endereco": "Rua XV de Novembro, 310",
+      "horarios": {
+        "seg_sex": [
+          9,
+          19
+        ],
+        "sab": [
+          9,
+          15
+        ],
+        "dom": null
+      },
+      "telefone": "(19) 3456-0104",
+      "whatsapp": "5519999990104",
+      "plano": "destaque",
+      "planoAte": "2027-12-31",
+      "nota": {
+        "media": 4.9,
+        "qtd": 131
+      },
+      "entrega": null,
+      "retirada": false,
+      "orcamento": false,
+      "fotos": 6,
+      "ativo": true,
+      "verificado": true,
+      "emergencia": false,
+      "ordem": 4,
+      "site": "",
+      "redes": {
+        "instagram": "https://instagram.com/studiobellapele",
+        "facebook": "https://facebook.com/studiobellapele"
+      },
+      "tipoNegocio": "mei",
+      "cidade": "demo",
+      "fonte": "exemplo",
+      "ver": "img2026a"
+    },
+    {
+      "id": "demo-padaria-pao-de-praca",
+      "nome": "Padaria Pão de Praça",
+      "categoria": "Alimentação",
+      "subcategoria": "Padaria e confeitaria",
+      "descricao": "Padaria de bairro com pães fresquinhos de hora em hora, salgados, bolos caseiros e café da manhã completo.",
+      "servicos": [
+        "Pães",
+        "Salgados",
+        "Bolos",
+        "Café da manhã",
+        "Encomendas"
+      ],
+      "palavras": [
+        "pao",
+        "cafe da manha",
+        "lanche",
+        "bolo",
+        "salgado"
+      ],
+      "bairro": "Vila Nova",
+      "endereco": "Rua das Flores, 55",
+      "horarios": {
+        "seg_sex": [
+          6,
+          20
+        ],
+        "sab": [
+          6,
+          16
+        ],
+        "dom": null
+      },
+      "telefone": "",
+      "whatsapp": "5519999990105",
+      "plano": "presenca",
+      "planoAte": "2027-12-31",
+      "nota": {
+        "media": 4.7,
+        "qtd": 54
+      },
+      "entrega": {
+        "tempo": "25–40 min",
+        "frete": 4
+      },
+      "retirada": true,
+      "orcamento": false,
+      "fotos": 3,
+      "ativo": true,
+      "verificado": false,
+      "emergencia": false,
+      "ordem": 5,
+      "site": "",
+      "redes": {
+        "instagram": "https://instagram.com/paodepraca",
+        "facebook": ""
+      },
+      "tipoNegocio": "cnpj",
+      "cidade": "demo",
+      "fonte": "exemplo",
+      "ver": "img2026a"
+    },
+    {
+      "id": "demo-pet-amigo",
+      "nome": "Pet Amigo Banho e Tosa",
+      "categoria": "Pets",
+      "subcategoria": "Pet shop",
+      "descricao": "Banho e tosa, rações, petiscos e acessórios. Atendimento carinhoso para cães e gatos, com busca e entrega do pet.",
+      "servicos": [
+        "Banho e tosa",
+        "Rações",
+        "Acessórios",
+        "Leva e traz"
+      ],
+      "palavras": [
+        "cachorro",
+        "gato",
+        "racao",
+        "veterinario",
+        "banho"
+      ],
+      "bairro": "Jardim Primavera",
+      "endereco": "Rua das Acácias, 410",
+      "horarios": {
+        "seg_sex": [
+          9,
+          18
+        ],
+        "sab": [
+          9,
+          14
+        ],
+        "dom": null
+      },
+      "telefone": "(19) 3456-0106",
+      "whatsapp": "5519999990106",
+      "plano": "presenca",
+      "planoAte": "2027-12-31",
+      "nota": {
+        "media": 4.8,
+        "qtd": 41
+      },
+      "entrega": null,
+      "retirada": true,
+      "orcamento": false,
+      "fotos": 3,
+      "ativo": true,
+      "verificado": false,
+      "emergencia": false,
+      "ordem": 6,
+      "site": "",
+      "redes": {
+        "instagram": "https://instagram.com/petamigo",
+        "facebook": ""
+      },
+      "tipoNegocio": "mei",
+      "cidade": "demo",
+      "fonte": "exemplo",
+      "ver": "img2026a"
+    },
+    {
+      "id": "demo-eletricista-carlos",
+      "nome": "Carlos Silva Eletricista",
+      "categoria": "Casa e obra",
+      "subcategoria": "Eletricista",
+      "descricao": "Instalações, reparos, quadros de luz e iluminação para casas e comércios.",
+      "servicos": [
+        "Instalação",
+        "Reparos",
+        "Quadro de luz"
+      ],
+      "palavras": [
+        "eletrica",
+        "tomada",
+        "fiacao",
+        "disjuntor",
+        "chuveiro"
+      ],
+      "bairro": "Vila Nova",
+      "endereco": "—",
+      "horarios": {
+        "seg_sex": [
+          8,
+          18
+        ],
+        "sab": [
+          8,
+          14
+        ],
+        "dom": null
+      },
+      "telefone": "",
+      "whatsapp": "5519999990107",
+      "plano": "gratis",
+      "planoAte": "",
+      "nota": {
+        "media": 0,
+        "qtd": 0
+      },
+      "entrega": null,
+      "retirada": false,
+      "orcamento": true,
+      "fotos": 1,
+      "ativo": true,
+      "verificado": false,
+      "emergencia": false,
+      "ordem": 7,
+      "site": "",
+      "redes": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "tipoNegocio": "autonomo",
+      "cidade": "demo",
+      "fonte": "exemplo",
+      "ver": "img2026a"
+    },
+    {
+      "id": "demo-mercadinho-bom-preco",
+      "nome": "Mercadinho Bom Preço",
+      "categoria": "Comércio",
+      "subcategoria": "Mercado",
+      "descricao": "Mercadinho de bairro com hortifrúti, mercearia, bebidas e itens de limpeza.",
+      "servicos": [
+        "Hortifrúti",
+        "Mercearia",
+        "Bebidas"
+      ],
+      "palavras": [
+        "mercado",
+        "compras",
+        "supermercado",
+        "feira"
+      ],
+      "bairro": "Chácaras",
+      "endereco": "Rua Sete, 99",
+      "horarios": {
+        "seg_sex": [
+          7,
+          20
+        ],
+        "sab": [
+          7,
+          16
+        ],
+        "dom": null
+      },
+      "telefone": "(19) 3456-0108",
+      "whatsapp": "",
+      "plano": "gratis",
+      "planoAte": "",
+      "nota": {
+        "media": 0,
+        "qtd": 0
+      },
+      "entrega": null,
+      "retirada": false,
+      "orcamento": false,
+      "fotos": 1,
+      "ativo": true,
+      "verificado": false,
+      "emergencia": false,
+      "ordem": 8,
+      "site": "",
+      "redes": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "tipoNegocio": "cnpj",
+      "cidade": "demo",
+      "fonte": "exemplo",
+      "ver": "img2026a"
+    }
+  ]
+}
