@@ -58,7 +58,7 @@ export const PILOTO = {
 export const BUSCAS_POPULARES = ["Farmácia", "Marmita", "Salão", "Cachorro", "Festa", "Portão"];
 
 // true = mostra aviso "dados de demonstração" no rodapé. Coloque false quando trocar pelos dados reais.
-export const MODO_DEMO = false;
+export const MODO_DEMO = true;
 
 // Busca inteligente: cada grupo reúne palavras que significam a mesma coisa para o morador.
 // Quem digita qualquer uma encontra empresas que usem as outras. Sem acento e minúsculas.

@@ -48,9 +48,9 @@
         "facebook": "https://facebook.com/farmaciavida24h"
       },
       "tipoNegocio": "cnpj",
-      "cidade": "demo",
+      "cidade": "iracemapolis",
       "fonte": "exemplo",
-      "ver": "img2026a"
+      "ver": "img2026b"
     },
     {
       "id": "demo-burger-brasa",
@@ -110,9 +110,9 @@
         "facebook": "https://facebook.com/burgerbrasagrill"
       },
       "tipoNegocio": "cnpj",
-      "cidade": "demo",
+      "cidade": "iracemapolis",
       "fonte": "exemplo",
-      "ver": "img2026a"
+      "ver": "img2026b"
     },
     {
       "id": "demo-auto-socorro",
@@ -160,9 +160,9 @@
         "facebook": "https://facebook.com/autosocorro24h"
       },
       "tipoNegocio": "cnpj",
-      "cidade": "demo",
+      "cidade": "iracemapolis",
       "fonte": "exemplo",
-      "ver": "img2026a"
+      "ver": "img2026b"
     },
     {
       "id": "demo-studio-bella-pele",
@@ -220,9 +220,9 @@
         "facebook": "https://facebook.com/studiobellapele"
       },
       "tipoNegocio": "mei",
-      "cidade": "demo",
+      "cidade": "iracemapolis",
       "fonte": "exemplo",
-      "ver": "img2026a"
+      "ver": "img2026b"
     },
     {
       "id": "demo-padaria-pao-de-praca",
@@ -282,9 +282,9 @@
         "facebook": ""
       },
       "tipoNegocio": "cnpj",
-      "cidade": "demo",
+      "cidade": "iracemapolis",
       "fonte": "exemplo",
-      "ver": "img2026a"
+      "ver": "img2026b"
     },
     {
       "id": "demo-pet-amigo",
@@ -340,9 +340,9 @@
         "facebook": ""
       },
       "tipoNegocio": "mei",
-      "cidade": "demo",
+      "cidade": "iracemapolis",
       "fonte": "exemplo",
-      "ver": "img2026a"
+      "ver": "img2026b"
     },
     {
       "id": "demo-eletricista-carlos",
@@ -397,9 +397,9 @@
         "facebook": ""
       },
       "tipoNegocio": "autonomo",
-      "cidade": "demo",
+      "cidade": "iracemapolis",
       "fonte": "exemplo",
-      "ver": "img2026a"
+      "ver": "img2026b"
     },
     {
       "id": "demo-mercadinho-bom-preco",
@@ -453,9 +453,9 @@
         "facebook": ""
       },
       "tipoNegocio": "cnpj",
-      "cidade": "demo",
+      "cidade": "iracemapolis",
       "fonte": "exemplo",
-      "ver": "img2026a"
+      "ver": "img2026b"
     }
   ]
 }
